@@ -17,7 +17,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/node": "^18.0.6",
-    "@whiskeysockets/baileys": "npm:mrnima-baileys@6.0.5",
+    "@whiskeysockets/baileys": "github:whiskeysockets/eslint-config",
     "awesome-phonenumber": "^6.2.0",
     "axios": "^1.6.2",
     "chalk": "^4.1.2",
